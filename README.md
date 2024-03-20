@@ -37,7 +37,7 @@ https://colab.research.google.com/drive/1kV-GH6NbNdJnuWHLmzrw-W--iXz28CK6?usp=sh
  
 
 
-** I provided an example of what a labeled entry looked like to ChatGPT using the “labeled.jsonl” dataset and then asked it to construct and generate multi-class classifier that meets the requirements/description I provided in the 1-page project proposal and completes each of the steps I provided in the 1-page project proposal as well: **
+**I provided an example of what a labeled entry looked like to ChatGPT using the “labeled.jsonl” dataset and then asked it to construct and generate multi-class classifier that meets the requirements/description I provided in the 1-page project proposal and completes each of the steps I provided in the 1-page project proposal as well:**
 
 ```python
 import jsonlines
