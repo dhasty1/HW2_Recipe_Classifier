@@ -1,4 +1,10 @@
-# HW2_Recipe_Classifier
+# HW2: Recipe Classifier
+
+### Group Members:
+- Logan Hasty
+- Devin Horst
+- Jacob Watson
+- Nish Chandan
 
 ## Recipe Classifier Write-Up
 
